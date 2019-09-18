@@ -7,7 +7,8 @@ General repository for Elitium Research Lab projects
 
 Elitium Research Lab projects
 
-Elitium Dev Team Repository
+Elitium Dev Team Repository<br>
+<br>
 
 <p align="center">More information<br>
 https://www.elitium.io</p>
