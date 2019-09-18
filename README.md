@@ -9,4 +9,5 @@ Elitium Research Lab projects
 
 Elitium Dev Team Repository
 
-<p align="center">More information at [elitium.io](https://www.elitium.io)</p>
+<p align="center">More information(https://www.elitium.io)</p>
+<p align="center">https://www.elitium.io</p>
