@@ -5,9 +5,9 @@
 
 General repository for Elitium Research Lab projects
 
-> Elitium Research Lab projects
+- Elitium Research Lab projects
 
-> Elitium Dev Team Repository<br>
+- Elitium Dev Team Repository<br>
 <br>
 
 <p align="center">For more information<br>
