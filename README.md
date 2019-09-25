@@ -7,6 +7,8 @@ General repository for Elitium Research Lab projects
 
 - Elitium Research Lab projects
 
+- Elitium R&D Team Repository
+
 - Elitium Dev Team Repository<br>
 <br>
 
